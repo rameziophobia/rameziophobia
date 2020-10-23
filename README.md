@@ -1,10 +1,10 @@
 <h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
-I'm ramez, a software engineer passionate about programming and technology 
+I'm Ramez, a software engineer passionate about programming and technology. Feel free to contact me at anytime  
 
 - 🌱 Currently learning **Blockchain technologies, Backend development, Android development**
 - 🤔 Looking for help with **Blockchain**
 - 💬 Ask me about SQL, Data structures, Algorithms, Python, Code reviews, Design patterns, web scraping
-- 💻 My previous projects [https://github.com/rameziophobia?tab=repositories](https://github.com/rameziophobia?tab=repositories)
+- 💻 All my previous projects can be found [here](https://github.com/rameziophobia?tab=repositories). Highlighted projects are in the pinned section below.
 - 📫 How to reach me: find my mail below, or use <a href="https://linkedin.com/in/ramez-noshy" target="blank">linkedIn</a>
 
 * :paperclip: [My Resume/CV](http://bit.ly/ramezcv8)
