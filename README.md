@@ -1,9 +1,8 @@
 <h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 I'm Ramez, a software engineer passionate about programming and technology. Feel free to contact me at anytime  
 
-- 🌱 Currently learning **Blockchain technologies, Backend development, Android development**
-- 🤔 Looking for help with **Blockchain**
-- 💬 Ask me about SQL, Data structures, Algorithms, Python, Code reviews, Design patterns, web scraping
+- 🌱 Currently learning **FullStack Web Development, Android development**
+- 💬 Ask me about Android, ReactJs, SQL, Data structures, Algorithms, Python, Code reviews, Design patterns, Web Scraping 
 - 💻 All my previous projects can be found [here](https://github.com/rameziophobia?tab=repositories). Highlighted projects are in the pinned section below.
 - 📫 How to reach me: find my mail below, or use <a href="https://linkedin.com/in/ramez-noshy" target="blank">linkedIn</a>
 
@@ -11,7 +10,13 @@ I'm Ramez, a software engineer passionate about programming and technology. Feel
 * :email: rameznoshy@gmail.com
 
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameziophobia&show_icons=true" alt="ramez github summary" /> </p>
+  [![LinkedIn URL](https://img.shields.io/static/v1?color=red&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://linkedin.com/in/ramez-noshy)
+  [![Facebook URL](https://img.shields.io/static/v1?color=red&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://fb.com/ramez.noshy.71)
+
+
+<p align="center"><img src="https://gpvc.arturio.dev/rameziophobia" alt="ramez profile views count" /> </p>  
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameziophobia&show_icons=true" alt="ramez github summary" /> </p>   
+<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=rameziophobia" alt="ramez github summary" /> </p>   
 
 <p align="center">
   <br>
