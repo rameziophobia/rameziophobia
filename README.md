@@ -16,7 +16,8 @@ I'm Ramez, a software engineer passionate about programming and technology. Feel
 
 <p align="center"><img src="https://gpvc.arturio.dev/rameziophobia" alt="ramez profile views count" /> </p>  
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameziophobia&show_icons=true&theme=darcula" alt="ramez github stats" /> </p>   
-<p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=rameziophobia&theme=gruvbox" alt="ramez github activity" /> </p>   
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rameziophobia&theme=dark&background=242424" alt="ramez github activity" /> </p>   
+<!-- <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=rameziophobia&theme=gruvbox" alt="ramez github activity" /> </p>    -->
 
 <!--
 **rameziophobia/rameziophobia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
