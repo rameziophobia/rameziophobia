@@ -14,7 +14,7 @@ I'm Ramez, a software engineer passionate about programming and technology. Feel
   [![Facebook URL](https://img.shields.io/static/v1?color=orange&label=Facebook&logo=Facebook&logoColor=white&style=for-the-badge&message=Connect)](https://fb.com/ramez.noshy.71)
 
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=rameziophobia&label=Profile%20views&color=0e75b6&style=flat" alt="ramez profile views count" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=rameziophobia&label=Profile%20views&color=DB6C01&style=flat" alt="ramez profile views count" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameziophobia&show_icons=true&theme=darcula" alt="ramez github stats" /> </p>   
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rameziophobia&theme=dark&background=242424" alt="ramez github activity" /> </p>   
 <!-- <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=rameziophobia&theme=gruvbox" alt="ramez github activity" /> </p>    -->
