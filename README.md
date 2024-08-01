@@ -1,9 +1,10 @@
 <h1 align="center">Hi there<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
 I'm Ramez, a software engineer passionate about programming and technology. Feel free to contact me at anytime  
 
-- 🌱 Currently learning **FullStack Web Development, Android development**
-- 💬 Ask me about Android, ReactJs, SQL, Data structures, Algorithms, Python, Code reviews, Design patterns, Web Scraping 
-- 💻 All my previous projects can be found [here](https://github.com/rameziophobia?tab=repositories). Highlighted projects are in the pinned section below.
+- 🔭 I’m currently working with **React** and **Ruby on Rails**
+- 🌱 Currently learning **Ruby on Rails, Docker, and containerization**
+- 💬 Ask me about React, Python, Web Scraping, SQL, Data structures, Algorithms, Design patterns, Code reviews
+- 💻 Some of my old projects can be found [here](https://github.com/rameziophobia?tab=repositories). Highlighted projects are in the pinned section below.
 - 📫 How to reach me: find my mail below, or use <a href="https://linkedin.com/in/ramez-noshy" target="blank">linkedIn</a>
 
 * :paperclip: [My Resume/CV](http://bit.ly/ramezcv8)
