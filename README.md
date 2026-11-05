@@ -16,8 +16,8 @@ I'm Ramez, a software engineer passionate about programming and technology. Feel
 
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rameziophobia&label=Profile%20views&color=DB6C01&style=flat" alt="ramez profile views count" /> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rameziophobia&show_icons=true&theme=darcula" alt="ramez github stats" /> </p>   
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rameziophobia&theme=dark&background=242424" alt="ramez github activity" /> </p>   
+<p align="center"><img src="https://github-stats-extended-mu-two.vercel.app/api?username=rameziophobia&show_icons=true&theme=darcula" alt="ramez github stats" /> </p>
+<p align="center"><img src="https://ramez-github-streak.vercel.app/?user=rameziophobia&theme=dark&background=242424" alt="ramez github activity" /> </p>
 <!-- <p align="center"><img src="https://activity-graph.herokuapp.com/graph?username=rameziophobia&theme=gruvbox" alt="ramez github activity" /> </p>    -->
 
 <!--
