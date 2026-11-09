@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Ramez Weissa&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 108, Total Contributions: 11015, Total Commits  : 9213, Total PRs: 826, Total PRs Reviewed: 204, Total Issues: 16</desc>
+        <desc id="descId">Total Stars Earned: 108, Total Contributions: 11028, Total Commits  : 9213, Total PRs: 832, Total PRs Reviewed: 211, Total Issues: 16</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 43.14854927820322;
+        stroke-dashoffset: 43.14849591591618;
       }
     }
   
@@ -184,7 +184,7 @@
         x="224.01"
         y="12.5"
         data-testid="contributions"
-      >11015</text>
+      >11028</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -214,7 +214,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >826</text>
+      >832</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -229,7 +229,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >204</text>
+      >211</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
